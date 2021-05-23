@@ -5,4 +5,6 @@
     <string name="title_notifications">Notifications</string>
     <string name="splash_screen_title">FavDish</string>
     <string name="add_dish">Add dish</string>
+    <string name="lbl_dish_title">Title</string>
+    <string name="lbl_dish_type">Type</string>
 </resources>
